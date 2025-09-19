@@ -65,5 +65,5 @@ MOOCs play a transformative role in enhancing the skills of UG students, especia
 ---
 
 ## 🔗 Connect With Me
-- GitHub: [Your GitHub Profile](https://github.com/YaseenJabbar)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/mohammedyaseen13)  
+- GitHub: YaseenJabbar (https://github.com/YaseenJabbar)  
+- LinkedIn: Mohammed Yaseen(https://linkedin.com/in/mohammedyaseen13)  
